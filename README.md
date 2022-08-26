@@ -12,7 +12,7 @@
 </div>
 
 # Bootcamp da XP educação
-
-## Detalhes do Projeto do primeiro módulo.
-
 # xp-m1-numero-primo
+## 🏷️ Detalhes do Projeto do primeiro módulo.
+
+## Nesse projeto formos responsáveis por fazer um detector de números primos e usa para responder as questões do modult 1.
