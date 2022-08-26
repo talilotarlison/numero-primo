@@ -11,8 +11,8 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-# Bootcamp da XP educação
-# xp-m1-numero-primo
+## Bootcamp da XP educação
+## xp-m1-numero-primo
 ## 🏷️ Detalhes do Projeto do primeiro módulo.
 
-## Nesse projeto formos responsáveis por fazer um detector de números primos e usa para responder as questões do modulo 1.
+### Nesse projeto formos responsáveis por fazer um detector de números primos e usa para responder as questões do modulo 1.
